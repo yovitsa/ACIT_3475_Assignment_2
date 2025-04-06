@@ -26,7 +26,7 @@ This project extends a personal portfolio website by adding secure authenticatio
 
 
 ## Prepartion
-We need to setop 3 AWS EC2 Instances Setup, with availability on Ports 22(ssh) and HTTP(80).
+We need to setup 3 AWS EC2 Instances Setup, with availability on Ports 22(ssh) and HTTP(80).
 
 
 ## Step 1: Nginx Reverse Proxy Setup for HTTPS Backend
